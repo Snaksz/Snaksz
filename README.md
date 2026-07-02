@@ -24,28 +24,53 @@ I like snacks ;) 🍩
 
 ---
 
+## 🚀 What I Do
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trading-Financial%20Markets-00C9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Development-Full%20Stack-92FE9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Research-Machine%20Learning-blueviolet?style=for-the-badge" />
+</p>
+
+I like building useful tools, learning new technologies, and working on projects that combine software, data, finance, and real-world impact.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,firebase,mysql,postgres,sqlite,jupyter,html,css,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,nextjs,nodejs,firebase,mysql,postgres,sqlite,html,css,git,github,linux,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+---
+
+## 📊 Featured Areas
+
+| Area | Focus |
+|---|---|
+| **Trading** | Markets, financial data, trading tools, portfolio analysis |
+| **Software Development** | Full-stack apps, dashboards, automation, backend tools |
+| **AI / ML** | Machine learning, data analysis, medical imaging, research workflows |
+| **Data** | Python, SQL, visualization, prediction models, analytics |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Snaksz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snaksz&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snaksz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snaksz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snaksz&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -54,11 +79,20 @@ I like snacks ;) 🍩
 
 ---
 
+## 🧠 Project Ideas I Like
+
+- C++ trading engine  
+- Full-stack dashboards  
+- AI-assisted medical imaging tools  
+- Data analysis and fraud detection  
+- Finance and portfolio analytics  
+- Developer tools and automation  
+
+---
+
 ## 🙂 A Bit About Me
 
-I like building useful tools, learning new technologies, and working on projects that combine software, data, and real-world impact.
-
-Outside of coding, I enjoy gaming, exploring new ideas, and building things I find interesting.
+Outside of coding, I enjoy gaming, exploring new ideas, trading, and building things I find interesting.
 
 ---
 
